@@ -1,6 +1,7 @@
 <!---
 {
   "id": "e7792ebe-224a-42c0-82ca-b1150127082c",
+  "teaches": "Evaluating Complex Expressions with the Shell",
   "depends_on": ["862f9d0d-6ee1-4746-9988-e7cd0efc1c56"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
